@@ -13,9 +13,9 @@
   "description": "",
   "devDependencies": {
     "@types/node": "^20.11.10",
-    "@vercel/node": "^3.0.17",
+    "@vercel/node": "^5.0.2",
     "typescript": "^5.3.3",
-    "vercel": "^33.3.0"
+    "vercel": "^39.2.5"
   },
   "dependencies": {
     "@langchain/openai": "^0.0.14",
